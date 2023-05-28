@@ -1,7 +1,7 @@
-import re 
-string = "python is a case sensitive language"
+import re
+string = "Python is a case sensitive language"
 
-print("length of string =', len(string ))
+print("Length of string = ", len(string))
 print("String in Reverse:", string[::-1])
 New_string= string[10:26]
 print("New String = ", New_string)
